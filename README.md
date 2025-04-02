@@ -44,7 +44,7 @@ Ensure you have the following installed:
   GROQ_API_KEY=your_api_key_here
 ```
 
-##Usage
+## Usage
 Run the assistant:
 ```bash
   python main.py
